@@ -1,0 +1,15 @@
+
+{
+    "region" : "us-west-2",
+    "profile" : "default",
+    "configuration" : "Release",
+    "framework"     : "netcoreapp1.0",
+    "function-name" : "IsaacNoelEndPoint",
+    "function-handler" : "IsaacNoel::BrothersNoel.Function::FunctionHandler",
+    "function-memory-size" : 256,
+    "function-role"        : "arn:aws:iam::353907336450:role/lambda_exec_SpaceGeekFunctionEndPoint-0",
+    "function-timeout"     : 10,
+    "function-runtime"     : "dotnetcore1.0",
+    "tracing-mode"         : "PassThrough",
+    "environment-variables" : ""
+}
